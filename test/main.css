@@ -40,6 +40,9 @@
       width:100px;
     }
 
-  a {
+  a:link {
     color: #18BC9C;
+    }
+  a:visited {
+    color: white;
   }
